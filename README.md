@@ -4,7 +4,7 @@
 
 This template explains the main formatting rules to apply to a Master Dissertation work for TMDEI, of the MSc in Computer Engineering of the Computer Engineering Department (DEI) of the School of Engineering (ISEP) of the Polytechnic of Porto (IPP).
 
-**You can fork this repository to make your own dissertation based on this template.**
+**You can fork [this repository](https://github.com/MEI-ISEP/tmdei-dissertation-template) to make your own dissertation based on this template.**
 
 Based on MastersDoctoralThesis version 1.2 by Vel (vel@latextemplates.com) and Johannes Böttcher, downloaded from [LaTeXTemplates](http://www.LaTeXTemplates.com) in November/2015. Adapted to TMDEI/ISEP style (Dec/2015) by Nuno Pereira and Paulo Baltarejo (DEI/ISEP).
 
